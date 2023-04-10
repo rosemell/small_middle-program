@@ -1,3 +1,0 @@
-﻿  源.cpp
-C:\Users\王\Desktop\小桌面\1\编程\项目\小作业\BC100-有序序列合并\BC100-有序序列合并\源.cpp(29,15): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“int”
-  BC100-有序序列合并.vcxproj -> C:\Users\王\Desktop\小桌面\1\编程\项目\小作业\BC100-有序序列合并\x64\Debug\BC100-有序序列合并.exe
